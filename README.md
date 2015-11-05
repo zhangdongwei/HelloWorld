@@ -1,2 +1,2 @@
-# HelloWorld...
-This is my first Git Repository.
+# HelloWorld!
+This is my first Git Repository!
